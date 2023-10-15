@@ -1,0 +1,4 @@
+def main(){
+	date = "2023/09/30";
+	print "hello A66 --"+date; //hello A66 --2023/09/30
+}

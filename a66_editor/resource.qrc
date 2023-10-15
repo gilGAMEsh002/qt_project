@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/image"/>
+    <qresource prefix="/img"/>
+    <qresource prefix="/">
+        <file>icon/icon_backward.png</file>
+        <file>icon/icon_excel.png</file>
+        <file>icon/icon_exit.png</file>
+        <file>icon/icon_file_add .png</file>
+        <file>icon/icon_folder.png</file>
+        <file>icon/icon_folder_add.png</file>
+        <file>icon/icon_folder_open.png</file>
+        <file>icon/icon_forward.png</file>
+        <file>icon/icon_pdf.png</file>
+        <file>icon/icon_ppt.png</file>
+        <file>icon/icon_word.png</file>
+        <file>icon/save.png</file>
+        <file>icon/saveAs.png</file>
+        <file>icon/icon_run.png</file>
+        <file>icon/icon_search.png</file>
+        <file>icon/icon_setting.png</file>
+    </qresource>
+</RCC>
